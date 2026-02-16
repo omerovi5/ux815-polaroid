@@ -102,3 +102,8 @@ main{
 .textbox{
     width: 642px;
 }
+
+.button{
+    width: 254px;
+    color: #FF3F3C;
+}
