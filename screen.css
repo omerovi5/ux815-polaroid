@@ -40,6 +40,7 @@ main{
     line-height: 1em;
     text-transform: uppercase;
     margin: 0;
+    margin-bottom: 100px;
 }
 
 .details ul li {
@@ -61,5 +62,5 @@ main{
 }
 
 .details ul li.share{
-    background: url('qrcode-solid 1.png') no-repeat center left;
+    background: url('photo-film-solid 1.png') no-repeat center left;
 }
