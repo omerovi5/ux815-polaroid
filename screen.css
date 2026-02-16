@@ -98,7 +98,7 @@ main{
     font-size: 24px;
 }
 
-.CTA input [type = "button"]{
+.CTA input [button]{
     width: 254px;
     height: 96px;
     color: #FF3F3C;
