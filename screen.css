@@ -105,5 +105,6 @@ main{
 
 .button{
     width: 254px;
-    color: #FF3F3C;
+    background-color: #FF3F3C;
+    color: #FFFFFF;
 }
