@@ -64,3 +64,13 @@ main{
 .details ul li.share{
     background: url('photo-film-solid 1.png') no-repeat center left;
 }
+
+.details h3{
+    text-align: center;
+    font-size: 64px;
+}
+
+.CTA h3{
+    text-align: center;
+    font-size: 64px;
+}
