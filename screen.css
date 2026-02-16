@@ -93,11 +93,13 @@ main{
 }
 
 .CTA input{
-    margin-top: 60px;
+    margin-top: 80px;
     text-align: center;
     font-size: 24px;
 }
 
 .CTA input [type = "button"]{
+    width: 254px;
+    height: 96px;
     color: #FF3F3C;
 }
