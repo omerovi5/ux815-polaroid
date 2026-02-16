@@ -97,6 +97,6 @@ input{
     font-size: 24px;
 }
 
-input button{
+input [type = "button"]{
     background-color: #FF3F3C;
 }
