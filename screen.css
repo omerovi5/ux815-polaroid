@@ -80,3 +80,12 @@ main{
     text-align: center;
     font-size: 64px;
 }
+
+.CTA form{
+    background-color: #D6D7D6;
+    width: 1014px;
+    height: 188px;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 100px;
+}
