@@ -97,6 +97,6 @@ input{
     font-size: 24px;
 }
 
-input [button]{
+.CTA input [type = "button"]{
     color: #FF3F3C;
 }
