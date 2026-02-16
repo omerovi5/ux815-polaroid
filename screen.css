@@ -44,6 +44,8 @@ main{
 }
 
 .details ul li {
+    text-align: center;
+    font-size: 32px;
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 35px;
